@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenScriptts/key-loadingscreen-kizuyi/refs/heads/main/loadingscreen%2Bkeysystem"))()
+loadstring(game:HttpGet("https://pastefy.app/8RSPhUC3/raw"))()
